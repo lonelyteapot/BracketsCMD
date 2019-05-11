@@ -1,0 +1,8 @@
+{
+    "name": "lonelyteapot.bracketscmd",
+    "title": "Brackets CMD",
+    "description": "Extension for starting Windows command prompt from Brackets. As for now, only supports starting current file, but the source code could be further extended.",
+    "version": "0.0.1",
+    "author": "Dmitry Semenov <lonelyteapot@gmail.com>",
+    "license": "MIT"
+}
